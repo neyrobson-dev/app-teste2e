@@ -1,4 +1,4 @@
-describe('My first test', () => {
+describe('My first test e2e', () => {
   beforeAll(async () => {
     await device.launchApp();
   });
